@@ -34,20 +34,20 @@ a:active {
 /* Header */
 header .avatar {
   position: relative;
-  height: 100px;
+  height: 150px;
 }
 
 header .avatar img {
   position: absolute;
-  width: 100px;
+  width: 150px;
   margin: 0 auto;
   left: 0;
   right: 0;
 }
 
 header .avatarMask {
-  clip-path: circle(48px at center);
-  -webkit-clip-path: circle(48px at center);
+  clip-path: circle(73px at center);
+  -webkit-clip-path: circle(73px at center);
 }
 
 /* Footer */
